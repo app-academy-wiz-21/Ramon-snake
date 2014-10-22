@@ -5,6 +5,7 @@
  var screenheight;
  
  function gameInitialize () {
+ var canvas = document.getELentByDe("game-screen");
      
  } 
  
